@@ -3,5 +3,5 @@ Simple Windows BAT files to enable or disable your internet connection.
 
 I use a Windows desktop shorcut to be able to run them as Administrator. 
 
-![Internet-Switch-button](https://github.com/jmbalaguer/Internet-Switch-button/blob/main/internet-on.png?raw=true) 
+![Internet-Switch-button](https://github.com/jmbalaguer/Internet-Switch-button/blob/main/internet-on.ico?raw=true) 
 
