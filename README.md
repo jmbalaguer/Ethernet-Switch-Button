@@ -1,4 +1,4 @@
-# Internet-Switch-button
+# Internet switch button
 Windows BAT files to enable or disable your internet connection.
 
 I use Windows desktop shortcuts to be able to run them as Administrator and change the associated icons. 
